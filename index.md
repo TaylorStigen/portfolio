@@ -7,6 +7,7 @@ title: taylorstigen.dev
     <p class="text-center">Hello, my name is Taylor Stigen, welcome to my portfolio.</p>
 
     <h2>About Me</h2>
+    <img src="./images/Taylor1.webp" alt="A picture of Taylor Stigen" class="img-fluid" style="max-width: 200px;">
     <p>I am an aspiring web developer located in Saskatoon, Saskatchewan.</p>
 
     <p>Some of the technologies I have experience with are:</p>
