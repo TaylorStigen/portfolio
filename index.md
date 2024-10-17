@@ -1,5 +1,4 @@
 ---
-layout: layout.vto
 title: taylorstigen.dev
 ---
 
