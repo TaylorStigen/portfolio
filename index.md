@@ -1,3 +1,8 @@
+---
+layout: layout.vto
+title: taylorstigen.dev
+---
+
 # Welcome to my website
 
 This is my first page using **Lume,** a static site generator for Deno.
