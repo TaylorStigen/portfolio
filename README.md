@@ -1,3 +1,2 @@
 # taylorstigen.dev
-
-## Personal Portfolio Static Website Built With Lume
+***Personal Portfolio Static Website Built With Lume***
