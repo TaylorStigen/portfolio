@@ -40,15 +40,26 @@ title: taylorstigen.dev
 
     Other technologies I have used:  
     <div class="container">
-        <div class="row justify-content-center">
+        <div class="row justify-content-center align-items-center">
             <div class="col-1 pb-2"> **Node.js** </div>
             <div class="col-1 pb-2"> **React** </div>
             <div class="col-1 pb-2"> **Vue** </div>
-        </div>
         <div class="row justify-content-center align-items-center">
-            <div class="col-1"><img src="/images/logos/nodejsStackedLight.svg" alt="Vue Logo" class="img-fluid pt-2" style="max-width: 60px;"></div>
+            <div class="col-1"><img src="/images/logos/Node.js.svg" alt="Node.js Logo" class="img-fluid pt-2" style="max-width: 60px;"></div>
             <div class="col-1"><img src="/images/logos/React.svg" alt="React Logo" class="img-fluid pt-2" style="max-width: 60px;"></div>
             <div class="col-1"><img src="/images/logos/Vue.svg" alt="Vue Logo" class="img-fluid pt-2" style="max-width: 60px;"></div>
+        </div>
+        <div class="row justify-content-center pt-3">
+            <div class="col-1 pb-2"> **Java** </div>
+            <div class="col-1 pb-2"> **C#** </div>
+            <div class="col-1 pb-2"> **Neo4j** </div>
+            <div class="col-1 pb-2"> **MongoDB** </div>
+        </div>
+        <div class="row justify-content-center align-items-center">
+            <div class="col-1"><img src="/images/logos/Java.svg" alt="Java Logo" class="img-fluid pt-2" style="max-width: 60px;"></div>
+            <div class="col-1"><img src="/images/logos/CSharp.svg" alt="C# Logo" class="img-fluid pt-2" style="max-width: 60px;"></div>
+            <div class="col-1"><img src="/images/logos/Neo4j.svg" alt="Node.js Logo" class="img-fluid pt-2" style="max-width: 60px;"></div>
+            <div class="col-1"><img src="/images/logos/MongoDB.svg" alt="Node.js Logo" class="img-fluid pt-2" style="max-width: 30px;"></div>
         </div>
     </div>
 
