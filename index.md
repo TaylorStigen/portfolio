@@ -25,6 +25,10 @@ title: taylorstigen.dev
             <strong class="mb-2">JavaScript</strong>
             <img src="/images/logos/JS.svg" alt="JavaScript Logo" class="img-fluid m-auto" style="max-width: 60px;">
         </div>
+        <div class="col-6 col-md-2 col-lg-1 pb-2 text-center d-flex flex-column align-items-center">
+            <strong class="mb-2">TypeScript</strong>
+            <img src="/images/logos/TS.svg" alt="TypeScript Logo" class="img-fluid m-auto" style="max-width: 60px;">
+        </div>
     </div>
 
     <div class="row justify-content-center">
@@ -72,6 +76,8 @@ title: taylorstigen.dev
                 <strong class="mb-2">C#</strong>
                 <img src="/images/logos/CSharp.svg" alt="C# Logo" class="img-fluid m-auto" style="max-width: 60px;">
             </div>
+        </div>
+        <div class="row justify-content-center">
             <div class="col-6 col-md-2 col-lg-1 pb-2 text-center d-flex flex-column align-items-center">
                 <strong class="mb-2">Neo4j</strong>
                 <img src="/images/logos/Neo4j.svg" alt="Neo4j Logo" class="img-fluid m-auto" style="max-width: 60px;">
@@ -88,4 +94,5 @@ title: taylorstigen.dev
     <h2>Contact</h2>
     <p><a href="https://github.com/TaylorStigen">GitHub</a></p>
     <p><a href="https://www.linkedin.com/in/taylor-stigen/">LinkedIn</a></p>
+
 </div>
