@@ -1,0 +1,44 @@
+---
+title: taylorstigen.dev
+links:
+    - text: GitHub
+      url: https://github.com/TaylorStigen
+    - text: LinkedIn
+      url: https://www.linkedin.com/in/taylor-stigen/
+---
+
+<div class="container text-center">
+    <header>
+        <h1>{{ title }}</h1>
+    </header>
+    <p>Hello, my name is Taylor Stigen, welcome to my portfolio.</p>
+
+    <h2>About Me</h2>
+    <img src="/images/Taylor1.webp" alt="A picture of Taylor Stigen" class="img-fluid rounded-4 border border-3" style="max-width: 250px;">
+    <p>I am an aspiring web developer located in Saskatoon, Saskatchewan.</p>
+    <p>The current technologies that I enjoy learning and working with are:</p>
+
+    <div class="row justify-content-center mx-auto" style="max-width: 450px">
+        {{ for tech of currenttech }}
+            {{ comp.technology({ title: tech.title, img: tech.img, desc: tech.desc }) }}
+        {{ /for }}
+    </div>
+
+    <p>Other technologies I have used:</p>
+
+    <div class="row justify-content-center mx-auto" style="max-width: 450px">
+        {{ for tech of othertech }}
+            {{ comp.technology({ title: tech.title, img: tech.img, desc: tech.desc }) }}
+        {{ /for }}
+    </div>
+
+    <h2>Projects</h2>
+    <p><a class="btn btn-primary" href="https://github.com/TaylorStigen/taylorstigen.dev">This Website</a></p>
+
+    <h2>Contact</h2>
+    {{ for link of links }}
+        <p><a href="{{ link.url }}">
+            {{ link.text }}
+        </a></p>
+    {{ /for }}
+</div>

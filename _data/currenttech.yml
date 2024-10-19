@@ -1,0 +1,31 @@
+- title: "HTML"
+  img: "/images/logos/HTML5.svg"
+  desc: "HTML5 Logo"
+
+- title: "CSS"
+  img: "/images/logos/CSS3.svg"
+  desc: "CSS3 Logo"
+
+- title: "JavaScript"
+  img: "/images/logos/JS.svg"
+  desc: "JavaScript Logo"
+
+- title: "TypeScript"
+  img: "/images/logos/TS.svg"
+  desc: "TypeScript Logo"
+
+- title: "Deno"
+  img: "/images/logos/Deno.svg"
+  desc: "Deno Logo"
+
+- title: "Lume"
+  img: "/images/logos/Lume.webp"
+  desc: "Lume Logo"
+
+- title: "Vento"
+  img: "/images/logos/Vento.svg"
+  desc: "Vento Logo"
+
+- title: "Fresh"
+  img: "/images/logos/Fresh.svg"
+  desc: "Fresh Logo"

@@ -1,0 +1,27 @@
+- title: "Node.js"
+  img: "/images/logos/Node.js.svg"
+  desc: "Node.js Logo"
+
+- title: "React"
+  img: "/images/logos/React.svg"
+  desc: "React Logo"
+
+- title: "Vue"
+  img: "/images/logos/Vue.svg"
+  desc: "Vue Logo"
+
+- title: "Java"
+  img: "/images/logos/Java.svg"
+  desc: "Java Logo"
+
+- title: "C#"
+  img: "/images/logos/CSharp.svg"
+  desc: "C# Logo"
+
+- title: "Neo4j"
+  img: "/images/logos/Neo4j.svg"
+  desc: "Neo4j Logo"
+
+- title: "MongoDB"
+  img: "/images/logos/MongoDB.svg"
+  desc: "MongoDB Logo"
