@@ -11,6 +11,25 @@ title: taylorstigen.dev
     <p>I am an aspiring web developer located in Saskatoon, Saskatchewan.</p>
     <p>The current technologies that I enjoy learning and working with are:</p>
 
+    {{ for number of [1, 2, 3] }}
+        {{ number }}
+    {{ /for }}
+
+
+    {{ for technology in technologies }}
+        <div>Technology: {{ technology.title }}</div>
+    {{ /for }}
+
+## Technologies
+
+<div class="row justify-content-center">
+  {% for technology in technologies %}
+  <div class="feature col-6 col-md-2 col-lg-1 pb-2 text-center d-flex flex-column align-items-center">
+    <strong class="mb-2">{{ technology.title }}</strong>
+    <img src="{{ technology.img }}" alt="{{ technology.description }}" class="img-fluid m-auto" style="max-width: 60px;">
+  </div>
+  {% endfor %}
+</div>
 
     <div class="row justify-content-center">
         <div class="col-6 col-md-2 col-lg-1 pb-2 text-center d-flex flex-column align-items-center">
